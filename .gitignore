@@ -1,0 +1,14 @@
+# 桥接运行时数据（任务记录含个人工作内容，永不入库）
+inbox/
+outbox/
+history/
+
+# Computer Use 运行产物
+computer-use/_bridge_screen.jpg
+computer-use/_cu_tmp/
+
+# 系统
+__pycache__/
+*.pyc
+Thumbs.db
+.DS_Store
